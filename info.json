@@ -1,0 +1,20 @@
+{
+	"name": "steinio-s-Factorio-essentials",
+	"version": "1.0.1",
+	"title": "steinio's Factorio essentials",
+	"author": "steinio",
+	"contact": "steinio @ https://forums.factorio.com/",
+	"homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=25238",
+	"description": "My basic QOL mod set added to each new game for Factorio.",
+	"dependencies": 
+		[
+			"base", 
+			"? angelsinfiniteores", 
+			"? angelsrefining", 
+			"? angelspetrochem", 
+			"? bobores", 
+			"? Clowns-Extended-Minerals", 
+			"? Noxys_Extra_Settings_Info"
+		],
+	"factorio_version": "1.0"
+}
